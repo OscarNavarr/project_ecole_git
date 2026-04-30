@@ -14,4 +14,3 @@ function randomArray(length, min, max) {
 console.log(randomNumber(1, 100));
 console.log("-------------------");
 console.log("-------------------");
-console.log(randomArray(5, 1, 100));
